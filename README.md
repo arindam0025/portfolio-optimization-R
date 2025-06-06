@@ -22,7 +22,7 @@ A comprehensive script that:
 
 ---
 
-### 2. **`ultiFactor_Modeling_RiskPricing.R`**
+### 2. **`MultiFactor_Modeling_RiskPricing.R`**
 A multi-purpose script that combines:
 - **CAPM Regression** for Reliance vs Nifty 50.
 - **Fama-French 3-Factor Modeling** (using synthetic factors).
